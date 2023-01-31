@@ -21,3 +21,4 @@ App include:
 - Spring Boot
 - PostgreSQL
 - Spring Data JPA
+- Spring Web
